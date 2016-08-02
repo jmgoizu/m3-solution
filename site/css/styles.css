@@ -6,8 +6,8 @@
 
 body {
 	font-size: 18px;
-	color: #000;
-	background-color: #fff;
+	color: blue;
+	background-color: yellow;
   	font-family: 'Oxygen', sans-serif;
 }
 #nav-list {
@@ -15,11 +15,11 @@ body {
   font-size: 0.9em;
 }
 #nav-list a {
-  color: #951C49;
+  color: #951C50;
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #E8E8E8;
 }
 #nav-list a span {
   font-size: 1.6em;
@@ -28,7 +28,7 @@ body {
 	width: 100%;
 }
 #header-nav {
-	background-color: #cccccc;
+	background-color: #dddddd;
 }
 .navbar-header {
 	padding-bottom: 15px;
